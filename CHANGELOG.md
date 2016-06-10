@@ -2,6 +2,11 @@ nginx Cookbook CHANGELOG
 ========================
 This file is used to list changes made in each version of the nginx cookbook.
 
+v2.8.0 / 2016-05-10
+===================
+
+  * removed version constraints from manifest
+
 v2.7.6 / 2015-03-17
 ==================
 
