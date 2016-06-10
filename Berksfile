@@ -1,4 +1,6 @@
-source 'https://supermarket.chef.io'
+source 'http://chef.tools.sprcom.springer-sbm.com:26200'
+source 'https://supermarket.getchef.com'
+
 metadata
 
 group :integration do
